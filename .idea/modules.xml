@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06-SSM-01-Wyy/06-SSM-01-Wyy.iml" filepath="$PROJECT_DIR$/06-SSM-01-Wyy/06-SSM-01-Wyy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SSM-01-Wyy-Two/06-SSM-01-Wyy-Two.iml" filepath="$PROJECT_DIR$/06-SSM-01-Wyy-Two/06-SSM-01-Wyy-Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SSM-02-Wyy-Poverty-Alleviation/06-SSM-02-Wyy-Poverty-Alleviation.iml" filepath="$PROJECT_DIR$/06-SSM-02-Wyy-Poverty-Alleviation/06-SSM-02-Wyy-Poverty-Alleviation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-01-Starter/08-SpringBoot-01-Starter.iml" filepath="$PROJECT_DIR$/08-SpringBoot-01-Starter/08-SpringBoot-01-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-02-Config-File/08-SpringBoot-02-Config-File.iml" filepath="$PROJECT_DIR$/08-SpringBoot-02-Config-File/08-SpringBoot-02-Config-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-03-Profile/08-SpringBoot-03-Profile.iml" filepath="$PROJECT_DIR$/08-SpringBoot-03-Profile/08-SpringBoot-03-Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-04-Annotation/08-SpringBoot-04-Annotation.iml" filepath="$PROJECT_DIR$/08-SpringBoot-04-Annotation/08-SpringBoot-04-Annotation.iml" />
+    </modules>
+  </component>
+</project>

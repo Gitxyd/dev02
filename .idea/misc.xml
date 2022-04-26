@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy-Two" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-02-Wyy-Poverty-Alleviation" />
+    <file type="web" url="file://$PROJECT_DIR$/Dem" />
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/06-SSM-01-Wyy/pom.xml" />
+        <option value="$PROJECT_DIR$/Dem/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-01-Wyy-Two/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-02-Wyy-Poverty-Alleviation/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-03-Profile/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-01-Starter/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-02-Config-File/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-04-Annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
